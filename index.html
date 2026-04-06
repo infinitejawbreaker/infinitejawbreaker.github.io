@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Infinite Jawbreaker LLC</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,8 +16,25 @@
   </nav>
 
   <main>
-    <img src="jawbreaker.png" alt="Colorful jawbreaker" class="hero-img">
-    <h1>Infinite Jawbreaker</h1>
+    <div class="hero">
+      <svg class="arc-text arc-top" viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <path id="arc-top" d="M 30,140 A 130,130 0 0,1 270,140" fill="none"/>
+        </defs>
+        <text>
+          <textPath href="#arc-top" startOffset="50%" text-anchor="middle">Infinite</textPath>
+        </text>
+      </svg>
+      <img src="jawbreaker.png" alt="Colorful jawbreaker" class="hero-img">
+      <svg class="arc-text arc-bottom" viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <path id="arc-bottom" d="M 30,10 A 130,130 0 0,0 270,10" fill="none"/>
+        </defs>
+        <text>
+          <textPath href="#arc-bottom" startOffset="50%" text-anchor="middle">Jawbreaker</textPath>
+        </text>
+      </svg>
+    </div>
     <p class="tagline">Something magical is brewing. Stay tuned.</p>
   </main>
 
