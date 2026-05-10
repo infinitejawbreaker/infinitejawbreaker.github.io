@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OtterRide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../favicon-180.png">
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .arc-top {
+      margin-bottom: -85px;
+    }
+
+    .hero-img {
+      border-radius: 0;
+      box-shadow: none;
+    }
+
+    .app-store-link {
+      display: inline-block;
+      margin-top: 0.5rem;
+      transition: opacity 0.2s;
+    }
+
+    .app-store-link:hover {
+      opacity: 0.85;
+    }
+
+    .app-store-badge {
+      width: 180px;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html" class="active">Home</a>
+    <a href="privacypolicy.html">Privacy</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <div class="hero">
+      <svg class="arc-text arc-top" viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <path id="arc-top" d="M 30,140 A 130,130 0 0,1 270,140" fill="none"/>
+        </defs>
+        <text>
+          <textPath href="#arc-top" startOffset="52%" text-anchor="middle" letter-spacing="0.3em">Otter</textPath>
+        </text>
+      </svg>
+      <img src="otter-head-icon.png" alt="OtterRide app icon" class="hero-img">
+      <svg class="arc-text arc-bottom" viewBox="-20 0 340 160" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <path id="arc-bottom" d="M 10,10 A 145,145 0 0,0 290,10" fill="none"/>
+        </defs>
+        <text>
+          <textPath href="#arc-bottom" startOffset="52%" text-anchor="middle" letter-spacing="0.4em">Ride</textPath>
+        </text>
+      </svg>
+    </div>
+    <a class="app-store-link"
+       href="https://apps.apple.com/us/app/otterride/id6767819818"
+       aria-label="Download OtterRide on the App Store">
+      <img src="app-store-badge.svg" alt="Download on the App Store" class="app-store-badge">
+    </a>
+  </main>
+
+  <footer>&copy; 2026 Infinite Jawbreaker LLC</footer>
+</body>
+</html>
