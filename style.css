@@ -90,6 +90,17 @@ main {
   font-style: italic;
 }
 
+.tagline a {
+  color: #87dffa;
+  font-size: 2.5rem;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.tagline a:hover {
+  color: #fff;
+}
+
 .contact-form-container {
   width: 100%;
   max-width: 700px;
