@@ -4674,6 +4674,88 @@
       "avgWaitWhenDown": 5
     }
   ],
+  "epaDelays": [
+    {
+      "name": "Bowser Jr. Challenge",
+      "slug": "bowser-jr-challenge",
+      "delayPct": 0,
+      "delayMornings": 0,
+      "epaMornings": 31,
+      "delayEvents": 0,
+      "delayAvgMin": null,
+      "delayMedMin": null
+    },
+    {
+      "name": "Dragon Racer's Rally",
+      "slug": "dragon-racer-s-rally",
+      "delayPct": 0,
+      "delayMornings": 0,
+      "epaMornings": 31,
+      "delayEvents": 0,
+      "delayAvgMin": null,
+      "delayMedMin": null
+    },
+    {
+      "name": "Hiccup's Wing Gliders",
+      "slug": "hiccup-s-wing-gliders",
+      "delayPct": 10,
+      "delayMornings": 3,
+      "epaMornings": 31,
+      "delayEvents": 4,
+      "delayAvgMin": 29,
+      "delayMedMin": 23
+    },
+    {
+      "name": "Stardust Racers",
+      "slug": "stardust-racers",
+      "delayPct": 10,
+      "delayMornings": 3,
+      "epaMornings": 31,
+      "delayEvents": 3,
+      "delayAvgMin": 23,
+      "delayMedMin": 10
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "delayPct": 16,
+      "delayMornings": 5,
+      "epaMornings": 31,
+      "delayEvents": 5,
+      "delayAvgMin": 72,
+      "delayMedMin": 25
+    },
+    {
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "slug": "mario-kart-bowser-s-challenge",
+      "delayPct": 19,
+      "delayMornings": 6,
+      "epaMornings": 31,
+      "delayEvents": 6,
+      "delayAvgMin": 18,
+      "delayMedMin": 18
+    },
+    {
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "slug": "harry-potter-and-the-battle-at-the-ministry",
+      "delayPct": 26,
+      "delayMornings": 8,
+      "epaMornings": 31,
+      "delayEvents": 8,
+      "delayAvgMin": 28,
+      "delayMedMin": 23
+    },
+    {
+      "name": "Mine-Cart Madness\u2122",
+      "slug": "mine-cart-madness",
+      "delayPct": 26,
+      "delayMornings": 8,
+      "epaMornings": 31,
+      "delayEvents": 10,
+      "delayAvgMin": 26,
+      "delayMedMin": 20
+    }
+  ],
   "segments": [
     {
       "label": "May 1\u201314 \u00b7 EPA 9 AM",
