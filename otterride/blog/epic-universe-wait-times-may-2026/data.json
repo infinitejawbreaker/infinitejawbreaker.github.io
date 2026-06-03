@@ -4471,109 +4471,207 @@
       "name": "Bowser Jr. Challenge",
       "slug": "bowser-jr-challenge",
       "land": "Super Nintendo World",
-      "uptimePct": 94,
+      "uptimePct": 99,
       "weatherPct": 0.0,
-      "otherPct": 5.5,
-      "n": 4833
+      "otherPct": 0.1,
+      "n": 4572
     },
     {
       "name": "Constellation Carousel",
       "slug": "constellation-carousel",
       "land": "Celestial Park",
-      "uptimePct": 92,
+      "uptimePct": 98,
       "weatherPct": 0.4,
-      "otherPct": 7.7,
-      "n": 4443
+      "otherPct": 1.9,
+      "n": 4180
     },
     {
       "name": "Dragon Racer's Rally",
       "slug": "dragon-racer-s-rally",
       "land": "How to Train Your Dragon: Isle of Berk",
-      "uptimePct": 92,
-      "weatherPct": 2.5,
-      "otherPct": 5.3,
-      "n": 4824
-    },
-    {
-      "name": "Mario Kart\u2122: Bowser's Challenge",
-      "slug": "mario-kart-bowser-s-challenge",
-      "land": "Super Nintendo World",
-      "uptimePct": 90,
-      "weatherPct": 0.0,
-      "otherPct": 10.3,
-      "n": 4834
-    },
-    {
-      "name": "Harry Potter and the Battle at the Ministry\u2122",
-      "slug": "harry-potter-and-the-battle-at-the-ministry",
-      "land": "The Wizarding World of Harry Potter: Ministry of Magic",
-      "uptimePct": 89,
-      "weatherPct": 0.0,
-      "otherPct": 11.1,
-      "n": 4821
-    },
-    {
-      "name": "Yoshi's Adventure\u2122",
-      "slug": "yoshi-s-adventure",
-      "land": "Super Nintendo World",
-      "uptimePct": 89,
-      "weatherPct": 2.0,
-      "otherPct": 9.2,
-      "n": 4852
+      "uptimePct": 97,
+      "weatherPct": 2.6,
+      "otherPct": 0.1,
+      "n": 4571
     },
     {
       "name": "Monsters Unchained: The Frankenstein Experiment",
       "slug": "monsters-unchained-the-frankenstein-experiment",
       "land": "Dark Universe",
-      "uptimePct": 88,
+      "uptimePct": 96,
       "weatherPct": 0.0,
-      "otherPct": 11.6,
-      "n": 4421
+      "otherPct": 4.0,
+      "n": 4071
     },
     {
-      "name": "Fyre Drill",
-      "slug": "fyre-drill",
-      "land": "How to Train Your Dragon: Isle of Berk",
-      "uptimePct": 87,
-      "weatherPct": 3.0,
-      "otherPct": 10.0,
-      "n": 4480
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "slug": "mario-kart-bowser-s-challenge",
+      "land": "Super Nintendo World",
+      "uptimePct": 95,
+      "weatherPct": 0.0,
+      "otherPct": 5.2,
+      "n": 4577
     },
     {
-      "name": "Stardust Racers",
-      "slug": "stardust-racers",
-      "land": "Celestial Park",
-      "uptimePct": 87,
-      "weatherPct": 3.0,
-      "otherPct": 9.8,
-      "n": 4826
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "slug": "harry-potter-and-the-battle-at-the-ministry",
+      "land": "The Wizarding World of Harry Potter: Ministry of Magic",
+      "uptimePct": 94,
+      "weatherPct": 0.0,
+      "otherPct": 6.2,
+      "n": 4568
     },
     {
-      "name": "Hiccup's Wing Gliders",
-      "slug": "hiccup-s-wing-gliders",
-      "land": "How to Train Your Dragon: Isle of Berk",
-      "uptimePct": 86,
-      "weatherPct": 2.5,
-      "otherPct": 12.0,
-      "n": 4805
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "land": "Super Nintendo World",
+      "uptimePct": 94,
+      "weatherPct": 2.1,
+      "otherPct": 4.3,
+      "n": 4606
     },
     {
       "name": "Curse of the Werewolf",
       "slug": "curse-of-the-werewolf",
       "land": "Dark Universe",
-      "uptimePct": 83,
-      "weatherPct": 2.9,
-      "otherPct": 14.3,
-      "n": 4433
+      "uptimePct": 93,
+      "weatherPct": 3.2,
+      "otherPct": 3.4,
+      "n": 3930
+    },
+    {
+      "name": "Fyre Drill",
+      "slug": "fyre-drill",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "uptimePct": 93,
+      "weatherPct": 3.1,
+      "otherPct": 4.1,
+      "n": 4200
+    },
+    {
+      "name": "Stardust Racers",
+      "slug": "stardust-racers",
+      "land": "Celestial Park",
+      "uptimePct": 92,
+      "weatherPct": 3.1,
+      "otherPct": 5.3,
+      "n": 4592
+    },
+    {
+      "name": "Hiccup's Wing Gliders",
+      "slug": "hiccup-s-wing-gliders",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "uptimePct": 90,
+      "weatherPct": 2.6,
+      "otherPct": 6.9,
+      "n": 4544
     },
     {
       "name": "Mine-Cart Madness\u2122",
       "slug": "mine-cart-madness",
       "land": "Super Nintendo World",
-      "uptimePct": 74,
-      "weatherPct": 5.4,
-      "otherPct": 20.7,
-      "n": 4633
+      "uptimePct": 83,
+      "weatherPct": 5.7,
+      "otherPct": 11.2,
+      "n": 4117
+    }
+  ],
+  "closures": [
+    {
+      "name": "Hiccup's Wing Gliders",
+      "slug": "hiccup-s-wing-gliders",
+      "totalClosures": 99,
+      "daysWithClosures": 30,
+      "avgDurationMin": 22,
+      "avgWaitWhenDown": 38
+    },
+    {
+      "name": "Mine-Cart Madness\u2122",
+      "slug": "mine-cart-madness",
+      "totalClosures": 99,
+      "daysWithClosures": 27,
+      "avgDurationMin": 35,
+      "avgWaitWhenDown": 103
+    },
+    {
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "slug": "harry-potter-and-the-battle-at-the-ministry",
+      "totalClosures": 77,
+      "daysWithClosures": 30,
+      "avgDurationMin": 18,
+      "avgWaitWhenDown": 85
+    },
+    {
+      "name": "Stardust Racers",
+      "slug": "stardust-racers",
+      "totalClosures": 65,
+      "daysWithClosures": 25,
+      "avgDurationMin": 30,
+      "avgWaitWhenDown": 21
+    },
+    {
+      "name": "Fyre Drill",
+      "slug": "fyre-drill",
+      "totalClosures": 59,
+      "daysWithClosures": 28,
+      "avgDurationMin": 26,
+      "avgWaitWhenDown": 22
+    },
+    {
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "slug": "mario-kart-bowser-s-challenge",
+      "totalClosures": 53,
+      "daysWithClosures": 28,
+      "avgDurationMin": 23,
+      "avgWaitWhenDown": 65
+    },
+    {
+      "name": "Curse of the Werewolf",
+      "slug": "curse-of-the-werewolf",
+      "totalClosures": 49,
+      "daysWithClosures": 22,
+      "avgDurationMin": 27,
+      "avgWaitWhenDown": 53
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "totalClosures": 34,
+      "daysWithClosures": 21,
+      "avgDurationMin": 44,
+      "avgWaitWhenDown": 33
+    },
+    {
+      "name": "Monsters Unchained: The Frankenstein Experiment",
+      "slug": "monsters-unchained-the-frankenstein-experiment",
+      "totalClosures": 29,
+      "daysWithClosures": 18,
+      "avgDurationMin": 28,
+      "avgWaitWhenDown": 20
+    },
+    {
+      "name": "Constellation Carousel",
+      "slug": "constellation-carousel",
+      "totalClosures": 20,
+      "daysWithClosures": 15,
+      "avgDurationMin": 24,
+      "avgWaitWhenDown": 16
+    },
+    {
+      "name": "Dragon Racer's Rally",
+      "slug": "dragon-racer-s-rally",
+      "totalClosures": 12,
+      "daysWithClosures": 9,
+      "avgDurationMin": 51,
+      "avgWaitWhenDown": 22
+    },
+    {
+      "name": "Bowser Jr. Challenge",
+      "slug": "bowser-jr-challenge",
+      "totalClosures": 4,
+      "daysWithClosures": 4,
+      "avgDurationMin": 6,
+      "avgWaitWhenDown": 5
     }
   ],
   "segments": [
