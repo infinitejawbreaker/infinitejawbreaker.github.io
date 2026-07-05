@@ -1,0 +1,3869 @@
+{
+  "park": "Epic Universe",
+  "parkSlug": "epic-universe-wait-times-june-2026",
+  "venueId": "uor.eu",
+  "month": "June 2026",
+  "window": {
+    "from": "2026-06-01",
+    "to": "2026-06-30",
+    "days": 30
+  },
+  "sampleSize": 49580,
+  "parkMedian": 35,
+  "parkAvg": 43,
+  "summary": {
+    "median": 35,
+    "avg": 43,
+    "earlyMed": 10,
+    "middayMed": 40,
+    "after19Med": 25,
+    "peakMed": 45,
+    "peakHour": "11 AM",
+    "middayVsEvening": 1.6,
+    "worst": {
+      "wait": 270,
+      "ride": "Harry Potter and the Battle at the Ministry\u2122",
+      "date": "2026-06-30",
+      "label": "Tue, Jun 30"
+    },
+    "busiestDay": {
+      "date": "2026-06-04",
+      "median": 45,
+      "label": "Thu, Jun 4"
+    },
+    "calmestDay": {
+      "date": "2026-06-13",
+      "median": 25,
+      "label": "Sat, Jun 13"
+    },
+    "bestDow": "Tue",
+    "bestDowMed": 30,
+    "worstDow": "Mon",
+    "worstDowMed": 35,
+    "weatherPct": 3.5,
+    "weatherDays": 18,
+    "weatherDayMed": 35,
+    "otherDayMed": 35
+  },
+  "epa": {
+    "label": "Early Park Admission",
+    "windows": [
+      {
+        "fromHour": 9,
+        "toHour": 10,
+        "fromLabel": "9 AM",
+        "toLabel": "10 AM",
+        "span": "June 1\u201330"
+      }
+    ]
+  },
+  "byHour": [
+    {
+      "hour": 9,
+      "label": "9 AM",
+      "median": 10,
+      "avg": 30,
+      "n": 2960
+    },
+    {
+      "hour": 10,
+      "label": "10 AM",
+      "median": 25,
+      "avg": 41,
+      "n": 4372
+    },
+    {
+      "hour": 11,
+      "label": "11 AM",
+      "median": 45,
+      "avg": 52,
+      "n": 4394
+    },
+    {
+      "hour": 12,
+      "label": "12 PM",
+      "median": 45,
+      "avg": 53,
+      "n": 4427
+    },
+    {
+      "hour": 13,
+      "label": "1 PM",
+      "median": 40,
+      "avg": 50,
+      "n": 4209
+    },
+    {
+      "hour": 14,
+      "label": "2 PM",
+      "median": 40,
+      "avg": 49,
+      "n": 3955
+    },
+    {
+      "hour": 15,
+      "label": "3 PM",
+      "median": 40,
+      "avg": 47,
+      "n": 4169
+    },
+    {
+      "hour": 16,
+      "label": "4 PM",
+      "median": 35,
+      "avg": 47,
+      "n": 4221
+    },
+    {
+      "hour": 17,
+      "label": "5 PM",
+      "median": 35,
+      "avg": 43,
+      "n": 4143
+    },
+    {
+      "hour": 18,
+      "label": "6 PM",
+      "median": 30,
+      "avg": 38,
+      "n": 3967
+    },
+    {
+      "hour": 19,
+      "label": "7 PM",
+      "median": 25,
+      "avg": 32,
+      "n": 4200
+    },
+    {
+      "hour": 20,
+      "label": "8 PM",
+      "median": 20,
+      "avg": 27,
+      "n": 4360
+    },
+    {
+      "hour": 21,
+      "label": "9 PM",
+      "median": 20,
+      "avg": 24,
+      "n": 739
+    }
+  ],
+  "byDay": [
+    {
+      "dow": "Mon",
+      "median": 35,
+      "avg": 43,
+      "n": 8515
+    },
+    {
+      "dow": "Tue",
+      "median": 30,
+      "avg": 41,
+      "n": 8142
+    },
+    {
+      "dow": "Wed",
+      "median": 35,
+      "avg": 41,
+      "n": 6694
+    },
+    {
+      "dow": "Thu",
+      "median": 35,
+      "avg": 45,
+      "n": 6689
+    },
+    {
+      "dow": "Fri",
+      "median": 35,
+      "avg": 43,
+      "n": 6615
+    },
+    {
+      "dow": "Sat",
+      "median": 30,
+      "avg": 42,
+      "n": 6282
+    },
+    {
+      "dow": "Sun",
+      "median": 35,
+      "avg": 43,
+      "n": 6643
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Mine-Cart Madness\u2122",
+      "slug": "mine-cart-madness",
+      "landId": "uor.eu.snw",
+      "land": "Super Nintendo World",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 80,
+              "avg": 80,
+              "n": 280
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 90,
+              "avg": 96,
+              "n": 292
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 120,
+              "avg": 119,
+              "n": 281
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 120,
+              "avg": 125,
+              "n": 300
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 110,
+              "avg": 115,
+              "n": 268
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 95,
+              "avg": 102,
+              "n": 236
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 90,
+              "avg": 96,
+              "n": 274
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 105,
+              "avg": 104,
+              "n": 275
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 105,
+              "avg": 102,
+              "n": 253
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 90,
+              "avg": 91,
+              "n": 217
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 80,
+              "avg": 83,
+              "n": 280
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 75,
+              "avg": 75,
+              "n": 297
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 65,
+              "avg": 71,
+              "n": 51
+            }
+          ]
+        }
+      ],
+      "median": 95,
+      "avg": 99,
+      "max": 200,
+      "p90": 135,
+      "n": 3261,
+      "bestHour": "8 PM",
+      "bestHourMed": 75,
+      "peakHour": "11 AM",
+      "peakMed": 120,
+      "bestDow": "Wed",
+      "bestDowMed": 90,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 80,
+          "avg": 80,
+          "n": 280
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 90,
+          "avg": 96,
+          "n": 292
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 120,
+          "avg": 119,
+          "n": 281
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 120,
+          "avg": 125,
+          "n": 300
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 110,
+          "avg": 115,
+          "n": 268
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 95,
+          "avg": 102,
+          "n": 236
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 90,
+          "avg": 96,
+          "n": 274
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 105,
+          "avg": 104,
+          "n": 275
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 105,
+          "avg": 102,
+          "n": 253
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 90,
+          "avg": 91,
+          "n": 217
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 80,
+          "avg": 83,
+          "n": 280
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 75,
+          "avg": 75,
+          "n": 297
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 65,
+          "avg": 71,
+          "n": 51
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 95,
+          "avg": 101,
+          "n": 603
+        },
+        {
+          "dow": "Tue",
+          "median": 95,
+          "avg": 100,
+          "n": 528
+        },
+        {
+          "dow": "Wed",
+          "median": 90,
+          "avg": 92,
+          "n": 426
+        },
+        {
+          "dow": "Thu",
+          "median": 90,
+          "avg": 97,
+          "n": 468
+        },
+        {
+          "dow": "Fri",
+          "median": 95,
+          "avg": 103,
+          "n": 415
+        },
+        {
+          "dow": "Sat",
+          "median": 95,
+          "avg": 96,
+          "n": 370
+        },
+        {
+          "dow": "Sun",
+          "median": 105,
+          "avg": 103,
+          "n": 451
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "slug": "harry-potter-and-the-battle-at-the-ministry",
+      "landId": "uor.eu.hpmom",
+      "land": "The Wizarding World of Harry Potter: Ministry of Magic",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 75,
+              "avg": 72,
+              "n": 282
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 90,
+              "avg": 103,
+              "n": 339
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 90,
+              "avg": 93,
+              "n": 319
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 95,
+              "avg": 97,
+              "n": 353
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 105,
+              "avg": 107,
+              "n": 324
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 115,
+              "avg": 113,
+              "n": 306
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 112,
+              "avg": 115,
+              "n": 306
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 115,
+              "avg": 117,
+              "n": 331
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 100,
+              "avg": 106,
+              "n": 349
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 82,
+              "avg": 91,
+              "n": 356
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 70,
+              "avg": 73,
+              "n": 326
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 50,
+              "avg": 52,
+              "n": 334
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 40,
+              "avg": 42,
+              "n": 53
+            }
+          ]
+        }
+      ],
+      "median": 90,
+      "avg": 95,
+      "max": 270,
+      "p90": 145,
+      "n": 3938,
+      "bestHour": "8 PM",
+      "bestHourMed": 50,
+      "peakHour": "2 PM",
+      "peakMed": 115,
+      "bestDow": "Tue",
+      "bestDowMed": 85,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 75,
+          "avg": 72,
+          "n": 282
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 90,
+          "avg": 103,
+          "n": 339
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 90,
+          "avg": 93,
+          "n": 319
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 95,
+          "avg": 97,
+          "n": 353
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 105,
+          "avg": 107,
+          "n": 324
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 115,
+          "avg": 113,
+          "n": 306
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 112,
+          "avg": 115,
+          "n": 306
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 115,
+          "avg": 117,
+          "n": 331
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 100,
+          "avg": 106,
+          "n": 349
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 82,
+          "avg": 91,
+          "n": 356
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 70,
+          "avg": 73,
+          "n": 326
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 50,
+          "avg": 52,
+          "n": 334
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 40,
+          "avg": 42,
+          "n": 53
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 105,
+          "avg": 100,
+          "n": 632
+        },
+        {
+          "dow": "Tue",
+          "median": 85,
+          "avg": 92,
+          "n": 654
+        },
+        {
+          "dow": "Wed",
+          "median": 90,
+          "avg": 88,
+          "n": 554
+        },
+        {
+          "dow": "Thu",
+          "median": 95,
+          "avg": 95,
+          "n": 543
+        },
+        {
+          "dow": "Fri",
+          "median": 90,
+          "avg": 90,
+          "n": 557
+        },
+        {
+          "dow": "Sat",
+          "median": 90,
+          "avg": 98,
+          "n": 522
+        },
+        {
+          "dow": "Sun",
+          "median": 100,
+          "avg": 103,
+          "n": 476
+        }
+      ]
+    },
+    {
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "slug": "mario-kart-bowser-s-challenge",
+      "landId": "uor.eu.snw",
+      "land": "Super Nintendo World",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 35,
+              "avg": 36,
+              "n": 305
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 85,
+              "avg": 85,
+              "n": 314
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 110,
+              "avg": 119,
+              "n": 348
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 100,
+              "avg": 102,
+              "n": 338
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 80,
+              "avg": 86,
+              "n": 357
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 85,
+              "avg": 91,
+              "n": 354
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 80,
+              "avg": 88,
+              "n": 347
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 75,
+              "avg": 81,
+              "n": 352
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 70,
+              "avg": 70,
+              "n": 352
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 60,
+              "avg": 58,
+              "n": 352
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 40,
+              "avg": 45,
+              "n": 345
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 25,
+              "avg": 29,
+              "n": 355
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 20,
+              "avg": 23,
+              "n": 60
+            }
+          ]
+        }
+      ],
+      "median": 70,
+      "avg": 74,
+      "max": 205,
+      "p90": 120,
+      "n": 4139,
+      "bestHour": "8 PM",
+      "bestHourMed": 25,
+      "peakHour": "11 AM",
+      "peakMed": 110,
+      "bestDow": "Wed",
+      "bestDowMed": 60,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 35,
+          "avg": 36,
+          "n": 305
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 85,
+          "avg": 85,
+          "n": 314
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 110,
+          "avg": 119,
+          "n": 348
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 100,
+          "avg": 102,
+          "n": 338
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 80,
+          "avg": 86,
+          "n": 357
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 85,
+          "avg": 91,
+          "n": 354
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 80,
+          "avg": 88,
+          "n": 347
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 75,
+          "avg": 81,
+          "n": 352
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 70,
+          "avg": 70,
+          "n": 352
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 60,
+          "avg": 58,
+          "n": 352
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 40,
+          "avg": 45,
+          "n": 345
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 25,
+          "avg": 29,
+          "n": 355
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 20,
+          "avg": 23,
+          "n": 60
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 75,
+          "avg": 76,
+          "n": 685
+        },
+        {
+          "dow": "Tue",
+          "median": 65,
+          "avg": 66,
+          "n": 713
+        },
+        {
+          "dow": "Wed",
+          "median": 60,
+          "avg": 64,
+          "n": 577
+        },
+        {
+          "dow": "Thu",
+          "median": 75,
+          "avg": 85,
+          "n": 522
+        },
+        {
+          "dow": "Fri",
+          "median": 75,
+          "avg": 75,
+          "n": 555
+        },
+        {
+          "dow": "Sat",
+          "median": 75,
+          "avg": 82,
+          "n": 541
+        },
+        {
+          "dow": "Sun",
+          "median": 72,
+          "avg": 74,
+          "n": 546
+        }
+      ]
+    },
+    {
+      "name": "Meet Toothless and Friends",
+      "slug": "meet-toothless-and-friends",
+      "landId": "uor.eu.httyd",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 70,
+              "avg": 66,
+              "n": 321
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 75,
+              "avg": 75,
+              "n": 359
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 75,
+              "avg": 74,
+              "n": 357
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 65,
+              "avg": 67,
+              "n": 360
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 60,
+              "avg": 64,
+              "n": 356
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 60,
+              "avg": 61,
+              "n": 348
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 60,
+              "avg": 57,
+              "n": 352
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 50,
+              "avg": 53,
+              "n": 360
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 50,
+              "avg": 54,
+              "n": 352
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 50,
+              "avg": 52,
+              "n": 345
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 45,
+              "avg": 47,
+              "n": 360
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 35,
+              "avg": 38,
+              "n": 360
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 30,
+              "avg": 32,
+              "n": 60
+            }
+          ]
+        }
+      ],
+      "median": 60,
+      "avg": 59,
+      "max": 125,
+      "p90": 80,
+      "n": 4258,
+      "bestHour": "8 PM",
+      "bestHourMed": 35,
+      "peakHour": "10 AM",
+      "peakMed": 75,
+      "bestDow": "Sat",
+      "bestDowMed": 50,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 70,
+          "avg": 66,
+          "n": 321
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 75,
+          "avg": 75,
+          "n": 359
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 75,
+          "avg": 74,
+          "n": 357
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 65,
+          "avg": 67,
+          "n": 360
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 60,
+          "avg": 64,
+          "n": 356
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 60,
+          "avg": 61,
+          "n": 348
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 60,
+          "avg": 57,
+          "n": 352
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 50,
+          "avg": 53,
+          "n": 360
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 50,
+          "avg": 54,
+          "n": 352
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 50,
+          "avg": 52,
+          "n": 345
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 45,
+          "avg": 47,
+          "n": 360
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 35,
+          "avg": 38,
+          "n": 360
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 30,
+          "avg": 32,
+          "n": 60
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 60,
+          "avg": 61,
+          "n": 716
+        },
+        {
+          "dow": "Tue",
+          "median": 60,
+          "avg": 62,
+          "n": 677
+        },
+        {
+          "dow": "Wed",
+          "median": 65,
+          "avg": 62,
+          "n": 568
+        },
+        {
+          "dow": "Thu",
+          "median": 60,
+          "avg": 60,
+          "n": 572
+        },
+        {
+          "dow": "Fri",
+          "median": 60,
+          "avg": 58,
+          "n": 578
+        },
+        {
+          "dow": "Sat",
+          "median": 50,
+          "avg": 53,
+          "n": 573
+        },
+        {
+          "dow": "Sun",
+          "median": 50,
+          "avg": 54,
+          "n": 574
+        }
+      ]
+    },
+    {
+      "name": "Curse of the Werewolf",
+      "slug": "curse-of-the-werewolf",
+      "landId": "uor.eu.darkuniverse",
+      "land": "Dark Universe",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 5,
+              "avg": 5,
+              "n": 54
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 15,
+              "avg": 17,
+              "n": 334
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 40,
+              "avg": 41,
+              "n": 330
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 50,
+              "avg": 50,
+              "n": 318
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 50,
+              "avg": 55,
+              "n": 298
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 60,
+              "avg": 53,
+              "n": 267
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 50,
+              "avg": 55,
+              "n": 300
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 50,
+              "avg": 53,
+              "n": 308
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 45,
+              "avg": 51,
+              "n": 292
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 40,
+              "avg": 43,
+              "n": 283
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 35,
+              "avg": 39,
+              "n": 307
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 30,
+              "avg": 36,
+              "n": 317
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 25,
+              "avg": 30,
+              "n": 56
+            }
+          ]
+        }
+      ],
+      "median": 45,
+      "avg": 44,
+      "max": 140,
+      "p90": 70,
+      "n": 3419,
+      "bestHour": "9 AM",
+      "bestHourMed": 5,
+      "peakHour": "2 PM",
+      "peakMed": 60,
+      "bestDow": "Tue",
+      "bestDowMed": 35,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 5,
+          "avg": 5,
+          "n": 54
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 15,
+          "avg": 17,
+          "n": 334
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 40,
+          "avg": 41,
+          "n": 330
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 50,
+          "avg": 50,
+          "n": 318
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 50,
+          "avg": 55,
+          "n": 298
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 60,
+          "avg": 53,
+          "n": 267
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 50,
+          "avg": 55,
+          "n": 300
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 50,
+          "avg": 53,
+          "n": 308
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 45,
+          "avg": 51,
+          "n": 292
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 40,
+          "avg": 43,
+          "n": 283
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 35,
+          "avg": 39,
+          "n": 307
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 30,
+          "avg": 36,
+          "n": 317
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 25,
+          "avg": 30,
+          "n": 56
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 45,
+          "avg": 42,
+          "n": 635
+        },
+        {
+          "dow": "Tue",
+          "median": 35,
+          "avg": 39,
+          "n": 590
+        },
+        {
+          "dow": "Wed",
+          "median": 45,
+          "avg": 44,
+          "n": 455
+        },
+        {
+          "dow": "Thu",
+          "median": 45,
+          "avg": 44,
+          "n": 437
+        },
+        {
+          "dow": "Fri",
+          "median": 45,
+          "avg": 44,
+          "n": 454
+        },
+        {
+          "dow": "Sat",
+          "median": 45,
+          "avg": 49,
+          "n": 366
+        },
+        {
+          "dow": "Sun",
+          "median": 45,
+          "avg": 47,
+          "n": 482
+        }
+      ]
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "landId": "uor.eu.snw",
+      "land": "Super Nintendo World",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 5,
+              "avg": 8,
+              "n": 344
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 40,
+              "avg": 39,
+              "n": 359
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 60,
+              "avg": 60,
+              "n": 351
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 60,
+              "avg": 59,
+              "n": 335
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 45,
+              "avg": 47,
+              "n": 307
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 45,
+              "avg": 43,
+              "n": 296
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 40,
+              "avg": 39,
+              "n": 327
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 35,
+              "avg": 37,
+              "n": 325
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 35,
+              "avg": 32,
+              "n": 312
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 30,
+              "avg": 29,
+              "n": 297
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 20,
+              "avg": 23,
+              "n": 324
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 15,
+              "avg": 14,
+              "n": 335
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 10,
+              "avg": 10,
+              "n": 58
+            }
+          ]
+        }
+      ],
+      "median": 35,
+      "avg": 36,
+      "max": 100,
+      "p90": 60,
+      "n": 3937,
+      "bestHour": "9 AM",
+      "bestHourMed": 5,
+      "peakHour": "11 AM",
+      "peakMed": 60,
+      "bestDow": "Mon",
+      "bestDowMed": 35,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 5,
+          "avg": 8,
+          "n": 344
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 40,
+          "avg": 39,
+          "n": 359
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 60,
+          "avg": 60,
+          "n": 351
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 60,
+          "avg": 59,
+          "n": 335
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 45,
+          "avg": 47,
+          "n": 307
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 45,
+          "avg": 43,
+          "n": 296
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 40,
+          "avg": 39,
+          "n": 327
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 35,
+          "avg": 37,
+          "n": 325
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 35,
+          "avg": 32,
+          "n": 312
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 30,
+          "avg": 29,
+          "n": 297
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 20,
+          "avg": 23,
+          "n": 324
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 15,
+          "avg": 14,
+          "n": 335
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 10,
+          "avg": 10,
+          "n": 58
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 35,
+          "avg": 36,
+          "n": 698
+        },
+        {
+          "dow": "Tue",
+          "median": 35,
+          "avg": 36,
+          "n": 630
+        },
+        {
+          "dow": "Wed",
+          "median": 35,
+          "avg": 36,
+          "n": 525
+        },
+        {
+          "dow": "Thu",
+          "median": 40,
+          "avg": 41,
+          "n": 528
+        },
+        {
+          "dow": "Fri",
+          "median": 35,
+          "avg": 35,
+          "n": 524
+        },
+        {
+          "dow": "Sat",
+          "median": 35,
+          "avg": 32,
+          "n": 492
+        },
+        {
+          "dow": "Sun",
+          "median": 35,
+          "avg": 33,
+          "n": 540
+        }
+      ]
+    },
+    {
+      "name": "Hiccup's Wing Gliders",
+      "slug": "hiccup-s-wing-gliders",
+      "landId": "uor.eu.httyd",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 10,
+              "avg": 9,
+              "n": 323
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 25,
+              "avg": 29,
+              "n": 336
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 45,
+              "avg": 47,
+              "n": 329
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 45,
+              "avg": 47,
+              "n": 342
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 40,
+              "avg": 42,
+              "n": 310
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 40,
+              "avg": 39,
+              "n": 247
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 35,
+              "avg": 37,
+              "n": 281
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 40,
+              "avg": 38,
+              "n": 294
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 35,
+              "avg": 33,
+              "n": 296
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 30,
+              "avg": 28,
+              "n": 254
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 25,
+              "avg": 25,
+              "n": 284
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 20,
+              "avg": 21,
+              "n": 320
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 15,
+              "avg": 15,
+              "n": 56
+            }
+          ]
+        }
+      ],
+      "median": 35,
+      "avg": 33,
+      "max": 95,
+      "p90": 50,
+      "n": 3629,
+      "bestHour": "9 AM",
+      "bestHourMed": 10,
+      "peakHour": "11 AM",
+      "peakMed": 45,
+      "bestDow": "Tue",
+      "bestDowMed": 30,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 10,
+          "avg": 9,
+          "n": 323
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 25,
+          "avg": 29,
+          "n": 336
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 45,
+          "avg": 47,
+          "n": 329
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 45,
+          "avg": 47,
+          "n": 342
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 40,
+          "avg": 42,
+          "n": 310
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 40,
+          "avg": 39,
+          "n": 247
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 35,
+          "avg": 37,
+          "n": 281
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 40,
+          "avg": 38,
+          "n": 294
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 35,
+          "avg": 33,
+          "n": 296
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 30,
+          "avg": 28,
+          "n": 254
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 25,
+          "avg": 25,
+          "n": 284
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 20,
+          "avg": 21,
+          "n": 320
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 15,
+          "avg": 15,
+          "n": 56
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 35,
+          "avg": 31,
+          "n": 634
+        },
+        {
+          "dow": "Tue",
+          "median": 30,
+          "avg": 29,
+          "n": 597
+        },
+        {
+          "dow": "Wed",
+          "median": 35,
+          "avg": 33,
+          "n": 494
+        },
+        {
+          "dow": "Thu",
+          "median": 35,
+          "avg": 35,
+          "n": 500
+        },
+        {
+          "dow": "Fri",
+          "median": 35,
+          "avg": 35,
+          "n": 496
+        },
+        {
+          "dow": "Sat",
+          "median": 35,
+          "avg": 34,
+          "n": 434
+        },
+        {
+          "dow": "Sun",
+          "median": 35,
+          "avg": 36,
+          "n": 474
+        }
+      ]
+    },
+    {
+      "name": "Dragon Racer's Rally",
+      "slug": "dragon-racer-s-rally",
+      "landId": "uor.eu.httyd",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 5,
+              "avg": 9,
+              "n": 310
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 35,
+              "avg": 39,
+              "n": 360
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 40,
+              "avg": 44,
+              "n": 354
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 40,
+              "avg": 41,
+              "n": 353
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 35,
+              "avg": 38,
+              "n": 322
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 35,
+              "avg": 36,
+              "n": 296
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 35,
+              "avg": 33,
+              "n": 320
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 30,
+              "avg": 33,
+              "n": 324
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 30,
+              "avg": 30,
+              "n": 310
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 25,
+              "avg": 28,
+              "n": 296
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 25,
+              "avg": 23,
+              "n": 314
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 15,
+              "avg": 17,
+              "n": 337
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 10,
+              "avg": 10,
+              "n": 58
+            }
+          ]
+        }
+      ],
+      "median": 30,
+      "avg": 31,
+      "max": 100,
+      "p90": 50,
+      "n": 3905,
+      "bestHour": "9 AM",
+      "bestHourMed": 5,
+      "peakHour": "11 AM",
+      "peakMed": 40,
+      "bestDow": "Mon",
+      "bestDowMed": 30,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 5,
+          "avg": 9,
+          "n": 310
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 35,
+          "avg": 39,
+          "n": 360
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 40,
+          "avg": 44,
+          "n": 354
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 40,
+          "avg": 41,
+          "n": 353
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 35,
+          "avg": 38,
+          "n": 322
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 35,
+          "avg": 36,
+          "n": 296
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 35,
+          "avg": 33,
+          "n": 320
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 30,
+          "avg": 33,
+          "n": 324
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 30,
+          "avg": 30,
+          "n": 310
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 25,
+          "avg": 28,
+          "n": 296
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 25,
+          "avg": 23,
+          "n": 314
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 15,
+          "avg": 17,
+          "n": 337
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 10,
+          "avg": 10,
+          "n": 58
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 30,
+          "avg": 30,
+          "n": 682
+        },
+        {
+          "dow": "Tue",
+          "median": 30,
+          "avg": 30,
+          "n": 638
+        },
+        {
+          "dow": "Wed",
+          "median": 35,
+          "avg": 33,
+          "n": 514
+        },
+        {
+          "dow": "Thu",
+          "median": 35,
+          "avg": 34,
+          "n": 541
+        },
+        {
+          "dow": "Fri",
+          "median": 35,
+          "avg": 33,
+          "n": 514
+        },
+        {
+          "dow": "Sat",
+          "median": 30,
+          "avg": 28,
+          "n": 492
+        },
+        {
+          "dow": "Sun",
+          "median": 30,
+          "avg": 30,
+          "n": 524
+        }
+      ]
+    },
+    {
+      "name": "Fyre Drill",
+      "slug": "fyre-drill",
+      "landId": "uor.eu.httyd",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "epaEligible": false,
+      "segments": [],
+      "median": 25,
+      "avg": 25,
+      "max": 90,
+      "p90": 50,
+      "n": 3411,
+      "bestHour": "10 AM",
+      "bestHourMed": 5,
+      "peakHour": "2 PM",
+      "peakMed": 40,
+      "bestDow": "Wed",
+      "bestDowMed": 15,
+      "byHour": [
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 5,
+          "avg": 9,
+          "n": 320
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 35,
+          "avg": 33,
+          "n": 341
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 35,
+          "avg": 37,
+          "n": 338
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 35,
+          "avg": 39,
+          "n": 310
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 40,
+          "avg": 41,
+          "n": 283
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 35,
+          "avg": 34,
+          "n": 302
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 30,
+          "avg": 31,
+          "n": 301
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 25,
+          "avg": 25,
+          "n": 282
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 15,
+          "avg": 17,
+          "n": 261
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 5,
+          "avg": 9,
+          "n": 298
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 5,
+          "avg": 5,
+          "n": 324
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 5,
+          "avg": 5,
+          "n": 56
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 30,
+          "avg": 29,
+          "n": 604
+        },
+        {
+          "dow": "Tue",
+          "median": 25,
+          "avg": 26,
+          "n": 583
+        },
+        {
+          "dow": "Wed",
+          "median": 15,
+          "avg": 18,
+          "n": 473
+        },
+        {
+          "dow": "Thu",
+          "median": 30,
+          "avg": 28,
+          "n": 431
+        },
+        {
+          "dow": "Fri",
+          "median": 30,
+          "avg": 27,
+          "n": 457
+        },
+        {
+          "dow": "Sat",
+          "median": 20,
+          "avg": 22,
+          "n": 436
+        },
+        {
+          "dow": "Sun",
+          "median": 30,
+          "avg": 27,
+          "n": 427
+        }
+      ]
+    },
+    {
+      "name": "Constellation Carousel",
+      "slug": "constellation-carousel",
+      "landId": "uor.eu.celestialpark",
+      "land": "Celestial Park",
+      "epaEligible": false,
+      "segments": [],
+      "median": 20,
+      "avg": 19,
+      "max": 65,
+      "p90": 30,
+      "n": 3720,
+      "bestHour": "10 AM",
+      "bestHourMed": 5,
+      "peakHour": "8 PM",
+      "peakMed": 25,
+      "bestDow": "Tue",
+      "bestDowMed": 15,
+      "byHour": [
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 5,
+          "avg": 6,
+          "n": 301
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 10,
+          "avg": 13,
+          "n": 325
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 20,
+          "avg": 18,
+          "n": 337
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 20,
+          "avg": 20,
+          "n": 337
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 20,
+          "avg": 21,
+          "n": 320
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 20,
+          "avg": 22,
+          "n": 340
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 20,
+          "avg": 22,
+          "n": 347
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 20,
+          "avg": 20,
+          "n": 347
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 20,
+          "avg": 21,
+          "n": 341
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 20,
+          "avg": 20,
+          "n": 341
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 25,
+          "avg": 24,
+          "n": 350
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 25,
+          "avg": 29,
+          "n": 57
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 20,
+          "avg": 20,
+          "n": 603
+        },
+        {
+          "dow": "Tue",
+          "median": 15,
+          "avg": 17,
+          "n": 596
+        },
+        {
+          "dow": "Wed",
+          "median": 20,
+          "avg": 19,
+          "n": 512
+        },
+        {
+          "dow": "Thu",
+          "median": 20,
+          "avg": 22,
+          "n": 507
+        },
+        {
+          "dow": "Fri",
+          "median": 20,
+          "avg": 19,
+          "n": 496
+        },
+        {
+          "dow": "Sat",
+          "median": 15,
+          "avg": 18,
+          "n": 491
+        },
+        {
+          "dow": "Sun",
+          "median": 20,
+          "avg": 18,
+          "n": 515
+        }
+      ]
+    },
+    {
+      "name": "Stardust Racers",
+      "slug": "stardust-racers",
+      "landId": "uor.eu.celestialpark",
+      "land": "Celestial Park",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 10,
+              "avg": 11,
+              "n": 337
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 15,
+              "avg": 18,
+              "n": 347
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 20,
+              "avg": 24,
+              "n": 343
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 25,
+              "avg": 26,
+              "n": 345
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 15,
+              "avg": 21,
+              "n": 317
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 15,
+              "avg": 18,
+              "n": 294
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 15,
+              "avg": 17,
+              "n": 313
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 15,
+              "avg": 19,
+              "n": 316
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 15,
+              "avg": 19,
+              "n": 292
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 15,
+              "avg": 19,
+              "n": 260
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 15,
+              "avg": 19,
+              "n": 309
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 25,
+              "avg": 25,
+              "n": 314
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 30,
+              "avg": 34,
+              "n": 54
+            }
+          ]
+        }
+      ],
+      "median": 15,
+      "avg": 20,
+      "max": 85,
+      "p90": 35,
+      "n": 3806,
+      "bestHour": "9 AM",
+      "bestHourMed": 10,
+      "peakHour": "12 PM",
+      "peakMed": 25,
+      "bestDow": "Mon",
+      "bestDowMed": 15,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 10,
+          "avg": 11,
+          "n": 337
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 15,
+          "avg": 18,
+          "n": 347
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 20,
+          "avg": 24,
+          "n": 343
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 25,
+          "avg": 26,
+          "n": 345
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 15,
+          "avg": 21,
+          "n": 317
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 15,
+          "avg": 18,
+          "n": 294
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 15,
+          "avg": 17,
+          "n": 313
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 15,
+          "avg": 19,
+          "n": 316
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 15,
+          "avg": 19,
+          "n": 292
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 15,
+          "avg": 19,
+          "n": 260
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 15,
+          "avg": 19,
+          "n": 309
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 25,
+          "avg": 25,
+          "n": 314
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 30,
+          "avg": 34,
+          "n": 54
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 15,
+          "avg": 18,
+          "n": 673
+        },
+        {
+          "dow": "Tue",
+          "median": 15,
+          "avg": 19,
+          "n": 612
+        },
+        {
+          "dow": "Wed",
+          "median": 15,
+          "avg": 19,
+          "n": 491
+        },
+        {
+          "dow": "Thu",
+          "median": 20,
+          "avg": 20,
+          "n": 530
+        },
+        {
+          "dow": "Fri",
+          "median": 15,
+          "avg": 23,
+          "n": 506
+        },
+        {
+          "dow": "Sat",
+          "median": 15,
+          "avg": 21,
+          "n": 468
+        },
+        {
+          "dow": "Sun",
+          "median": 15,
+          "avg": 20,
+          "n": 526
+        }
+      ]
+    },
+    {
+      "name": "Monsters Unchained: The Frankenstein Experiment",
+      "slug": "monsters-unchained-the-frankenstein-experiment",
+      "landId": "uor.eu.darkuniverse",
+      "land": "Dark Universe",
+      "epaEligible": false,
+      "segments": [],
+      "median": 15,
+      "avg": 15,
+      "max": 50,
+      "p90": 25,
+      "n": 3854,
+      "bestHour": "10 AM",
+      "bestHourMed": 10,
+      "peakHour": "12 PM",
+      "peakMed": 20,
+      "bestDow": "Mon",
+      "bestDowMed": 10,
+      "byHour": [
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 10,
+          "avg": 12,
+          "n": 351
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 15,
+          "avg": 18,
+          "n": 356
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 20,
+          "avg": 20,
+          "n": 348
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 15,
+          "avg": 17,
+          "n": 343
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 15,
+          "avg": 19,
+          "n": 348
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 15,
+          "avg": 17,
+          "n": 347
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 10,
+          "avg": 15,
+          "n": 328
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 10,
+          "avg": 14,
+          "n": 346
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 10,
+          "avg": 13,
+          "n": 345
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 10,
+          "avg": 12,
+          "n": 352
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 10,
+          "avg": 11,
+          "n": 357
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 10,
+          "avg": 10,
+          "n": 60
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 10,
+          "avg": 15,
+          "n": 630
+        },
+        {
+          "dow": "Tue",
+          "median": 15,
+          "avg": 17,
+          "n": 603
+        },
+        {
+          "dow": "Wed",
+          "median": 10,
+          "avg": 15,
+          "n": 526
+        },
+        {
+          "dow": "Thu",
+          "median": 10,
+          "avg": 14,
+          "n": 534
+        },
+        {
+          "dow": "Fri",
+          "median": 10,
+          "avg": 15,
+          "n": 508
+        },
+        {
+          "dow": "Sat",
+          "median": 15,
+          "avg": 15,
+          "n": 521
+        },
+        {
+          "dow": "Sun",
+          "median": 15,
+          "avg": 15,
+          "n": 532
+        }
+      ]
+    },
+    {
+      "name": "Bowser Jr. Challenge",
+      "slug": "bowser-jr-challenge",
+      "landId": "uor.eu.snw",
+      "land": "Super Nintendo World",
+      "epaEligible": true,
+      "segments": [
+        {
+          "label": "June 1\u201330 \u00b7 EPA 9 AM",
+          "epa": {
+            "windows": [
+              {
+                "fromHour": 9,
+                "toHour": 10,
+                "span": ""
+              }
+            ]
+          },
+          "byHour": [
+            {
+              "hour": 9,
+              "label": "9 AM",
+              "median": 5,
+              "avg": 6,
+              "n": 333
+            },
+            {
+              "hour": 10,
+              "label": "10 AM",
+              "median": 5,
+              "avg": 8,
+              "n": 360
+            },
+            {
+              "hour": 11,
+              "label": "11 AM",
+              "median": 5,
+              "avg": 6,
+              "n": 360
+            },
+            {
+              "hour": 12,
+              "label": "12 PM",
+              "median": 5,
+              "avg": 7,
+              "n": 360
+            },
+            {
+              "hour": 13,
+              "label": "1 PM",
+              "median": 5,
+              "avg": 7,
+              "n": 360
+            },
+            {
+              "hour": 14,
+              "label": "2 PM",
+              "median": 5,
+              "avg": 8,
+              "n": 360
+            },
+            {
+              "hour": 15,
+              "label": "3 PM",
+              "median": 5,
+              "avg": 9,
+              "n": 360
+            },
+            {
+              "hour": 16,
+              "label": "4 PM",
+              "median": 10,
+              "avg": 9,
+              "n": 360
+            },
+            {
+              "hour": 17,
+              "label": "5 PM",
+              "median": 10,
+              "avg": 9,
+              "n": 360
+            },
+            {
+              "hour": 18,
+              "label": "6 PM",
+              "median": 10,
+              "avg": 9,
+              "n": 360
+            },
+            {
+              "hour": 19,
+              "label": "7 PM",
+              "median": 5,
+              "avg": 9,
+              "n": 360
+            },
+            {
+              "hour": 20,
+              "label": "8 PM",
+              "median": 5,
+              "avg": 9,
+              "n": 360
+            },
+            {
+              "hour": 21,
+              "label": "9 PM",
+              "median": 5,
+              "avg": 9,
+              "n": 60
+            }
+          ]
+        }
+      ],
+      "median": 5,
+      "avg": 8,
+      "max": 45,
+      "p90": 15,
+      "n": 4303,
+      "bestHour": "9 AM",
+      "bestHourMed": 5,
+      "peakHour": "4 PM",
+      "peakMed": 10,
+      "bestDow": "Mon",
+      "bestDowMed": 5,
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 5,
+          "avg": 6,
+          "n": 333
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 5,
+          "avg": 8,
+          "n": 360
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 5,
+          "avg": 6,
+          "n": 360
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 5,
+          "avg": 7,
+          "n": 360
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 5,
+          "avg": 7,
+          "n": 360
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 5,
+          "avg": 8,
+          "n": 360
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 5,
+          "avg": 9,
+          "n": 360
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 10,
+          "avg": 9,
+          "n": 360
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 10,
+          "avg": 9,
+          "n": 360
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 10,
+          "avg": 9,
+          "n": 360
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 5,
+          "avg": 9,
+          "n": 360
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 5,
+          "avg": 9,
+          "n": 360
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 5,
+          "avg": 9,
+          "n": 60
+        }
+      ],
+      "byDay": [
+        {
+          "dow": "Mon",
+          "median": 5,
+          "avg": 7,
+          "n": 720
+        },
+        {
+          "dow": "Tue",
+          "median": 5,
+          "avg": 10,
+          "n": 721
+        },
+        {
+          "dow": "Wed",
+          "median": 5,
+          "avg": 7,
+          "n": 579
+        },
+        {
+          "dow": "Thu",
+          "median": 5,
+          "avg": 7,
+          "n": 576
+        },
+        {
+          "dow": "Fri",
+          "median": 10,
+          "avg": 9,
+          "n": 555
+        },
+        {
+          "dow": "Sat",
+          "median": 5,
+          "avg": 7,
+          "n": 576
+        },
+        {
+          "dow": "Sun",
+          "median": 5,
+          "avg": 8,
+          "n": 576
+        }
+      ]
+    }
+  ],
+  "lands": [
+    {
+      "landId": "uor.eu.snw",
+      "land": "Super Nintendo World",
+      "rides": [
+        {
+          "name": "Bowser Jr. Challenge",
+          "slug": "bowser-jr-challenge",
+          "median": 5,
+          "max": 45,
+          "bestHour": "9 AM",
+          "bestDow": "Mon"
+        },
+        {
+          "name": "Mario Kart\u2122: Bowser's Challenge",
+          "slug": "mario-kart-bowser-s-challenge",
+          "median": 70,
+          "max": 205,
+          "bestHour": "8 PM",
+          "bestDow": "Wed"
+        },
+        {
+          "name": "Mine-Cart Madness\u2122",
+          "slug": "mine-cart-madness",
+          "median": 95,
+          "max": 200,
+          "bestHour": "8 PM",
+          "bestDow": "Wed"
+        },
+        {
+          "name": "Yoshi's Adventure\u2122",
+          "slug": "yoshi-s-adventure",
+          "median": 35,
+          "max": 100,
+          "bestHour": "9 AM",
+          "bestDow": "Mon"
+        }
+      ]
+    },
+    {
+      "landId": "uor.eu.hpmom",
+      "land": "The Wizarding World of Harry Potter: Ministry of Magic",
+      "rides": [
+        {
+          "name": "Harry Potter and the Battle at the Ministry\u2122",
+          "slug": "harry-potter-and-the-battle-at-the-ministry",
+          "median": 90,
+          "max": 270,
+          "bestHour": "8 PM",
+          "bestDow": "Tue"
+        }
+      ]
+    },
+    {
+      "landId": "uor.eu.httyd",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "rides": [
+        {
+          "name": "Dragon Racer's Rally",
+          "slug": "dragon-racer-s-rally",
+          "median": 30,
+          "max": 100,
+          "bestHour": "9 AM",
+          "bestDow": "Mon"
+        },
+        {
+          "name": "Fyre Drill",
+          "slug": "fyre-drill",
+          "median": 25,
+          "max": 90,
+          "bestHour": "10 AM",
+          "bestDow": "Wed"
+        },
+        {
+          "name": "Hiccup's Wing Gliders",
+          "slug": "hiccup-s-wing-gliders",
+          "median": 35,
+          "max": 95,
+          "bestHour": "9 AM",
+          "bestDow": "Tue"
+        },
+        {
+          "name": "Meet Toothless and Friends",
+          "slug": "meet-toothless-and-friends",
+          "median": 60,
+          "max": 125,
+          "bestHour": "8 PM",
+          "bestDow": "Sat"
+        }
+      ]
+    },
+    {
+      "landId": "uor.eu.darkuniverse",
+      "land": "Dark Universe",
+      "rides": [
+        {
+          "name": "Curse of the Werewolf",
+          "slug": "curse-of-the-werewolf",
+          "median": 45,
+          "max": 140,
+          "bestHour": "9 AM",
+          "bestDow": "Tue"
+        },
+        {
+          "name": "Monsters Unchained: The Frankenstein Experiment",
+          "slug": "monsters-unchained-the-frankenstein-experiment",
+          "median": 15,
+          "max": 50,
+          "bestHour": "10 AM",
+          "bestDow": "Mon"
+        }
+      ]
+    },
+    {
+      "landId": "uor.eu.celestialpark",
+      "land": "Celestial Park",
+      "rides": [
+        {
+          "name": "Constellation Carousel",
+          "slug": "constellation-carousel",
+          "median": 20,
+          "max": 65,
+          "bestHour": "10 AM",
+          "bestDow": "Tue"
+        },
+        {
+          "name": "Stardust Racers",
+          "slug": "stardust-racers",
+          "median": 15,
+          "max": 85,
+          "bestHour": "9 AM",
+          "bestDow": "Mon"
+        }
+      ]
+    }
+  ],
+  "reliability": [
+    {
+      "name": "Mine-Cart Madness\u2122",
+      "openPct": 71,
+      "delayedPct": 23
+    },
+    {
+      "name": "Curse of the Werewolf",
+      "openPct": 79,
+      "delayedPct": 14
+    },
+    {
+      "name": "Hiccup's Wing Gliders",
+      "openPct": 79,
+      "delayedPct": 15
+    },
+    {
+      "name": "Fyre Drill",
+      "openPct": 80,
+      "delayedPct": 14
+    },
+    {
+      "name": "Stardust Racers",
+      "openPct": 83,
+      "delayedPct": 11
+    },
+    {
+      "name": "Dragon Racer's Rally",
+      "openPct": 85,
+      "delayedPct": 8
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "openPct": 85,
+      "delayedPct": 8
+    },
+    {
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "openPct": 86,
+      "delayedPct": 8
+    },
+    {
+      "name": "Constellation Carousel",
+      "openPct": 87,
+      "delayedPct": 6
+    },
+    {
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "openPct": 90,
+      "delayedPct": 4
+    },
+    {
+      "name": "Monsters Unchained: The Frankenstein Experiment",
+      "openPct": 90,
+      "delayedPct": 3
+    },
+    {
+      "name": "Meet Toothless and Friends",
+      "openPct": 93,
+      "delayedPct": 1
+    },
+    {
+      "name": "Bowser Jr. Challenge",
+      "openPct": 94,
+      "delayedPct": 0
+    }
+  ],
+  "uptime": [
+    {
+      "name": "Bowser Jr. Challenge",
+      "slug": "bowser-jr-challenge",
+      "land": "Super Nintendo World",
+      "uptimePct": 100,
+      "weatherPct": 0.0,
+      "otherPct": 0.0,
+      "n": 4303
+    },
+    {
+      "name": "Monsters Unchained: The Frankenstein Experiment",
+      "slug": "monsters-unchained-the-frankenstein-experiment",
+      "land": "Dark Universe",
+      "uptimePct": 97,
+      "weatherPct": 0.0,
+      "otherPct": 3.3,
+      "n": 3971
+    },
+    {
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "slug": "mario-kart-bowser-s-challenge",
+      "land": "Super Nintendo World",
+      "uptimePct": 96,
+      "weatherPct": 0.0,
+      "otherPct": 4.4,
+      "n": 4330
+    },
+    {
+      "name": "Constellation Carousel",
+      "slug": "constellation-carousel",
+      "land": "Celestial Park",
+      "uptimePct": 94,
+      "weatherPct": 0.5,
+      "otherPct": 5.8,
+      "n": 3945
+    },
+    {
+      "name": "Dragon Racer's Rally",
+      "slug": "dragon-racer-s-rally",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "uptimePct": 92,
+      "weatherPct": 7.4,
+      "otherPct": 0.4,
+      "n": 4236
+    },
+    {
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "slug": "harry-potter-and-the-battle-at-the-ministry",
+      "land": "The Wizarding World of Harry Potter: Ministry of Magic",
+      "uptimePct": 92,
+      "weatherPct": 0.0,
+      "otherPct": 7.8,
+      "n": 4269
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "land": "Super Nintendo World",
+      "uptimePct": 92,
+      "weatherPct": 6.5,
+      "otherPct": 1.6,
+      "n": 4283
+    },
+    {
+      "name": "Stardust Racers",
+      "slug": "stardust-racers",
+      "land": "Celestial Park",
+      "uptimePct": 89,
+      "weatherPct": 7.6,
+      "otherPct": 3.3,
+      "n": 4271
+    },
+    {
+      "name": "Fyre Drill",
+      "slug": "fyre-drill",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "uptimePct": 87,
+      "weatherPct": 8.3,
+      "otherPct": 4.5,
+      "n": 3871
+    },
+    {
+      "name": "Curse of the Werewolf",
+      "slug": "curse-of-the-werewolf",
+      "land": "Dark Universe",
+      "uptimePct": 86,
+      "weatherPct": 7.3,
+      "otherPct": 6.2,
+      "n": 3955
+    },
+    {
+      "name": "Hiccup's Wing Gliders",
+      "slug": "hiccup-s-wing-gliders",
+      "land": "How to Train Your Dragon: Isle of Berk",
+      "uptimePct": 85,
+      "weatherPct": 7.3,
+      "otherPct": 7.6,
+      "n": 4264
+    },
+    {
+      "name": "Mine-Cart Madness\u2122",
+      "slug": "mine-cart-madness",
+      "land": "Super Nintendo World",
+      "uptimePct": 77,
+      "weatherPct": 11.1,
+      "otherPct": 12.3,
+      "n": 4258
+    }
+  ],
+  "closures": [
+    {
+      "name": "Hiccup's Wing Gliders",
+      "slug": "hiccup-s-wing-gliders",
+      "totalClosures": 109,
+      "daysWithClosures": 30,
+      "avgDurationMin": 29,
+      "avgWaitWhenDown": 36
+    },
+    {
+      "name": "Mine-Cart Madness\u2122",
+      "slug": "mine-cart-madness",
+      "totalClosures": 105,
+      "daysWithClosures": 30,
+      "avgDurationMin": 48,
+      "avgWaitWhenDown": 103
+    },
+    {
+      "name": "Fyre Drill",
+      "slug": "fyre-drill",
+      "totalClosures": 60,
+      "daysWithClosures": 25,
+      "avgDurationMin": 41,
+      "avgWaitWhenDown": 29
+    },
+    {
+      "name": "Curse of the Werewolf",
+      "slug": "curse-of-the-werewolf",
+      "totalClosures": 57,
+      "daysWithClosures": 24,
+      "avgDurationMin": 47,
+      "avgWaitWhenDown": 46
+    },
+    {
+      "name": "Stardust Racers",
+      "slug": "stardust-racers",
+      "totalClosures": 56,
+      "daysWithClosures": 26,
+      "avgDurationMin": 42,
+      "avgWaitWhenDown": 27
+    },
+    {
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "slug": "harry-potter-and-the-battle-at-the-ministry",
+      "totalClosures": 49,
+      "daysWithClosures": 26,
+      "avgDurationMin": 34,
+      "avgWaitWhenDown": 94
+    },
+    {
+      "name": "Constellation Carousel",
+      "slug": "constellation-carousel",
+      "totalClosures": 36,
+      "daysWithClosures": 19,
+      "avgDurationMin": 34,
+      "avgWaitWhenDown": 18
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "totalClosures": 36,
+      "daysWithClosures": 21,
+      "avgDurationMin": 48,
+      "avgWaitWhenDown": 44
+    },
+    {
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "slug": "mario-kart-bowser-s-challenge",
+      "totalClosures": 30,
+      "daysWithClosures": 17,
+      "avgDurationMin": 32,
+      "avgWaitWhenDown": 70
+    },
+    {
+      "name": "Dragon Racer's Rally",
+      "slug": "dragon-racer-s-rally",
+      "totalClosures": 24,
+      "daysWithClosures": 15,
+      "avgDurationMin": 69,
+      "avgWaitWhenDown": 35
+    },
+    {
+      "name": "Monsters Unchained: The Frankenstein Experiment",
+      "slug": "monsters-unchained-the-frankenstein-experiment",
+      "totalClosures": 14,
+      "daysWithClosures": 9,
+      "avgDurationMin": 47,
+      "avgWaitWhenDown": 21
+    }
+  ],
+  "epaDelays": [
+    {
+      "name": "Bowser Jr. Challenge",
+      "slug": "bowser-jr-challenge",
+      "delayPct": 0,
+      "delayMornings": 0,
+      "epaMornings": 30,
+      "delayEvents": 0,
+      "delayAvgMin": null,
+      "delayMedMin": null
+    },
+    {
+      "name": "Curse of the Werewolf",
+      "slug": "curse-of-the-werewolf",
+      "delayPct": 3,
+      "delayMornings": 1,
+      "epaMornings": 30,
+      "delayEvents": 1,
+      "delayAvgMin": 385,
+      "delayMedMin": 385
+    },
+    {
+      "name": "Dragon Racer's Rally",
+      "slug": "dragon-racer-s-rally",
+      "delayPct": 3,
+      "delayMornings": 1,
+      "epaMornings": 30,
+      "delayEvents": 1,
+      "delayAvgMin": 35,
+      "delayMedMin": 35
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "delayPct": 3,
+      "delayMornings": 1,
+      "epaMornings": 30,
+      "delayEvents": 1,
+      "delayAvgMin": 20,
+      "delayMedMin": 20
+    },
+    {
+      "name": "Stardust Racers",
+      "slug": "stardust-racers",
+      "delayPct": 10,
+      "delayMornings": 3,
+      "epaMornings": 30,
+      "delayEvents": 3,
+      "delayAvgMin": 7,
+      "delayMedMin": 5
+    },
+    {
+      "name": "Hiccup's Wing Gliders",
+      "slug": "hiccup-s-wing-gliders",
+      "delayPct": 13,
+      "delayMornings": 4,
+      "epaMornings": 30,
+      "delayEvents": 5,
+      "delayAvgMin": 13,
+      "delayMedMin": 10
+    },
+    {
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "slug": "mario-kart-bowser-s-challenge",
+      "delayPct": 13,
+      "delayMornings": 4,
+      "epaMornings": 30,
+      "delayEvents": 4,
+      "delayAvgMin": 69,
+      "delayMedMin": 70
+    },
+    {
+      "name": "Mine-Cart Madness\u2122",
+      "slug": "mine-cart-madness",
+      "delayPct": 17,
+      "delayMornings": 5,
+      "epaMornings": 30,
+      "delayEvents": 5,
+      "delayAvgMin": 20,
+      "delayMedMin": 10
+    },
+    {
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "slug": "harry-potter-and-the-battle-at-the-ministry",
+      "delayPct": 37,
+      "delayMornings": 11,
+      "epaMornings": 30,
+      "delayEvents": 11,
+      "delayAvgMin": 25,
+      "delayMedMin": 20
+    }
+  ],
+  "segments": [
+    {
+      "label": "June 1\u201330 \u00b7 EPA 9 AM",
+      "epa": {
+        "label": "Early Park Admission",
+        "windows": [
+          {
+            "fromHour": 9,
+            "toHour": 10,
+            "span": ""
+          }
+        ]
+      },
+      "byHour": [
+        {
+          "hour": 9,
+          "label": "9 AM",
+          "median": 10,
+          "avg": 30,
+          "n": 2960
+        },
+        {
+          "hour": 10,
+          "label": "10 AM",
+          "median": 25,
+          "avg": 41,
+          "n": 4372
+        },
+        {
+          "hour": 11,
+          "label": "11 AM",
+          "median": 45,
+          "avg": 52,
+          "n": 4394
+        },
+        {
+          "hour": 12,
+          "label": "12 PM",
+          "median": 45,
+          "avg": 53,
+          "n": 4427
+        },
+        {
+          "hour": 13,
+          "label": "1 PM",
+          "median": 40,
+          "avg": 50,
+          "n": 4209
+        },
+        {
+          "hour": 14,
+          "label": "2 PM",
+          "median": 40,
+          "avg": 49,
+          "n": 3955
+        },
+        {
+          "hour": 15,
+          "label": "3 PM",
+          "median": 40,
+          "avg": 47,
+          "n": 4169
+        },
+        {
+          "hour": 16,
+          "label": "4 PM",
+          "median": 35,
+          "avg": 47,
+          "n": 4221
+        },
+        {
+          "hour": 17,
+          "label": "5 PM",
+          "median": 35,
+          "avg": 43,
+          "n": 4143
+        },
+        {
+          "hour": 18,
+          "label": "6 PM",
+          "median": 30,
+          "avg": 38,
+          "n": 3967
+        },
+        {
+          "hour": 19,
+          "label": "7 PM",
+          "median": 25,
+          "avg": 32,
+          "n": 4200
+        },
+        {
+          "hour": 20,
+          "label": "8 PM",
+          "median": 20,
+          "avg": 27,
+          "n": 4360
+        },
+        {
+          "hour": 21,
+          "label": "9 PM",
+          "median": 20,
+          "avg": 24,
+          "n": 739
+        }
+      ]
+    }
+  ]
+}
