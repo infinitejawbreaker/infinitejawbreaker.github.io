@@ -1,0 +1,124 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  background: #111;
+  color: #f0f0f0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  display: flex;
+  gap: 0;
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+}
+
+nav a {
+  padding: 0.9rem 1.8rem;
+  color: #888;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+nav a:hover {
+  color: #ccc;
+}
+
+nav a.active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 2rem;
+}
+
+.qq-title {
+  font-family: "IM Fell English", serif;
+  font-size: clamp(3rem, 10vw, 5.5rem);
+  letter-spacing: 0.08em;
+  text-align: center;
+  line-height: 1.1;
+}
+
+.qq-tagline {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #bba76a;
+  text-align: center;
+}
+
+.qq-coming-soon {
+  margin-top: 3rem;
+  font-size: 1.1rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #888;
+  text-align: center;
+}
+
+.qq-page {
+  flex: 1;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+.qq-page h1 {
+  font-family: "IM Fell English", serif;
+  font-size: 2.2rem;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.5rem;
+}
+
+.qq-page-date {
+  color: #888;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+.qq-page h2 {
+  font-size: 1.4rem;
+  margin: 2rem 0 0.75rem;
+}
+
+.qq-page p,
+.qq-page ul {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: #d5d5d5;
+}
+
+.qq-page ul {
+  padding-left: 1.5rem;
+}
+
+.qq-page li {
+  margin-bottom: 0.4rem;
+}
+
+.qq-page a {
+  color: #bba76a;
+}
+
+footer {
+  border-top: 1px solid #222;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #555;
+}
