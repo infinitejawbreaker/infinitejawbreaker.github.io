@@ -11,27 +11,6 @@
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="favicon-180.png">
   <link rel="stylesheet" href="style.css">
-  <style>
-    .tagline {
-      margin-top: 1rem;
-    }
-
-    .tagline a {
-      display: inline-flex;
-      align-items: center;
-      gap: 1.2rem;
-    }
-
-    .tagline .app-icon {
-      width: 2.5rem;
-      height: 2.5rem;
-      border-radius: 50%;
-    }
-
-    .tagline-secondary {
-      margin-top: 1.5rem;
-    }
-  </style>
 </head>
 <body>
   <nav>
@@ -43,8 +22,21 @@
     <div class="hero">
       <img src="logo.svg" alt="Infinite Jawbreaker" class="logo">
     </div>
-    <p class="tagline"><a href="https://otterride.com"><img src="otterride/otter-head-icon.png" alt="" class="app-icon">Otter Ride</a></p>
-    <p class="tagline tagline-secondary"><a href="https://quixotequest.com"><img src="quixotequest/icon.png" alt="" class="app-icon">Quixote Quest</a></p>
+    <section class="apps" aria-labelledby="apps-heading">
+      <h2 id="apps-heading" class="apps-heading">Our apps</h2>
+      <div class="app-grid">
+        <a class="app-card" href="https://otterride.com">
+          <img src="otterride/otter-head-icon.png" alt="" class="app-icon">
+          <span class="app-name">Otter Ride</span>
+          <span class="app-desc">Live Universal Orlando wait times, so you always know what to ride next.</span>
+        </a>
+        <a class="app-card" href="https://quixotequest.com">
+          <img src="quixotequest/icon.png" alt="" class="app-icon">
+          <span class="app-name">Quixote Quest</span>
+          <span class="app-desc">A noble quest of questionable sanity. Coming soon to the App Store.</span>
+        </a>
+      </div>
+    </section>
   </main>
 
   <footer>&copy; 2026 Infinite Jawbreaker LLC</footer>
