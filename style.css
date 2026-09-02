@@ -46,7 +46,7 @@ main {
 
 .hero {
   width: 100%;
-  max-width: 760px;
+  max-width: 660px;
 }
 
 .logo {
@@ -57,7 +57,7 @@ main {
 
 .apps {
   width: 100%;
-  max-width: 760px;
+  max-width: 660px;
   margin-top: 4rem;
 }
 
