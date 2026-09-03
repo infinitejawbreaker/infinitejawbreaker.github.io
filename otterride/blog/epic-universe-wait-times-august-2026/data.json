@@ -1,6 +1,6 @@
 {
   "park": "Epic Universe",
-  "parkSlug": "epic-universe-wait-times-august-2026",
+  "parkSlug": "zz-august",
   "venueId": "uor.eu",
   "month": "August 2026",
   "window": {
@@ -4615,8 +4615,8 @@
       "land": "Super Nintendo World",
       "uptimePct": 96,
       "weatherPct": 0.0,
-      "otherPct": 4.1,
-      "n": 4709
+      "otherPct": 4.2,
+      "n": 4711
     },
     {
       "name": "Harry Potter and the Battle at the Ministry\u2122",
@@ -4624,138 +4624,146 @@
       "land": "The Wizarding World of Harry Potter: Ministry of Magic",
       "uptimePct": 93,
       "weatherPct": 0.0,
-      "otherPct": 6.5,
-      "n": 4703
+      "otherPct": 6.9,
+      "n": 4722
     },
     {
       "name": "Dragon Racer's Rally",
       "slug": "dragon-racer-s-rally",
       "land": "How to Train Your Dragon: Isle of Berk",
-      "uptimePct": 89,
-      "weatherPct": 10.8,
-      "otherPct": 0.6,
-      "n": 4646
+      "uptimePct": 87,
+      "weatherPct": 11.8,
+      "otherPct": 0.8,
+      "n": 4705
     },
     {
       "name": "Yoshi's Adventure\u2122",
       "slug": "yoshi-s-adventure",
       "land": "Super Nintendo World",
-      "uptimePct": 88,
-      "weatherPct": 9.9,
-      "otherPct": 2.5,
-      "n": 4692
+      "uptimePct": 87,
+      "weatherPct": 10.6,
+      "otherPct": 2.6,
+      "n": 4736
     },
     {
       "name": "Curse of the Werewolf",
       "slug": "curse-of-the-werewolf",
       "land": "Dark Universe",
-      "uptimePct": 85,
-      "weatherPct": 12.1,
-      "otherPct": 2.6,
-      "n": 4311
+      "uptimePct": 84,
+      "weatherPct": 12.8,
+      "otherPct": 2.8,
+      "n": 4355
     },
     {
       "name": "Monsters Unchained: The Frankenstein Experiment",
       "slug": "monsters-unchained-the-frankenstein-experiment",
       "land": "Dark Universe",
-      "uptimePct": 85,
+      "uptimePct": 84,
       "weatherPct": 0.0,
-      "otherPct": 15.1,
-      "n": 4251
+      "otherPct": 16.2,
+      "n": 4310
     },
     {
       "name": "Stardust Racers",
       "slug": "stardust-racers",
       "land": "Celestial Park",
-      "uptimePct": 82,
-      "weatherPct": 10.3,
+      "uptimePct": 80,
+      "weatherPct": 12.1,
       "otherPct": 7.5,
-      "n": 4724
+      "n": 4837
     },
     {
       "name": "Mine-Cart Madness\u2122",
       "slug": "mine-cart-madness",
       "land": "Super Nintendo World",
-      "uptimePct": 78,
-      "weatherPct": 9.7,
-      "otherPct": 11.9,
-      "n": 4553
+      "uptimePct": 75,
+      "weatherPct": 12.0,
+      "otherPct": 12.6,
+      "n": 4731
     },
     {
       "name": "Fyre Drill",
       "slug": "fyre-drill",
       "land": "How to Train Your Dragon: Isle of Berk",
-      "uptimePct": 76,
-      "weatherPct": 11.4,
-      "otherPct": 12.6,
-      "n": 4238
+      "uptimePct": 74,
+      "weatherPct": 13.1,
+      "otherPct": 12.8,
+      "n": 4344
     },
     {
       "name": "Hiccup's Wing Gliders",
       "slug": "hiccup-s-wing-gliders",
       "land": "How to Train Your Dragon: Isle of Berk",
-      "uptimePct": 75,
-      "weatherPct": 11.2,
-      "otherPct": 13.6,
-      "n": 4631
+      "uptimePct": 74,
+      "weatherPct": 12.0,
+      "otherPct": 14.0,
+      "n": 4707
     }
   ],
   "closures": [
     {
       "name": "Hiccup's Wing Gliders",
       "slug": "hiccup-s-wing-gliders",
-      "totalClosures": 106,
-      "daysWithClosures": 29,
-      "avgDurationMin": 54,
-      "avgWaitWhenDown": 34
+      "totalClosures": 112,
+      "daysWithClosures": 30,
+      "avgDurationMin": 55,
+      "avgWaitWhenDown": 33
     },
     {
       "name": "Stardust Racers",
       "slug": "stardust-racers",
-      "totalClosures": 103,
+      "totalClosures": 109,
       "daysWithClosures": 30,
-      "avgDurationMin": 41,
-      "avgWaitWhenDown": 25
+      "avgDurationMin": 44,
+      "avgWaitWhenDown": 24
     },
     {
       "name": "Mine-Cart Madness\u2122",
       "slug": "mine-cart-madness",
-      "totalClosures": 96,
+      "totalClosures": 102,
       "daysWithClosures": 31,
-      "avgDurationMin": 51,
-      "avgWaitWhenDown": 92
+      "avgDurationMin": 57,
+      "avgWaitWhenDown": 90
     },
     {
       "name": "Mario Kart\u2122: Bowser's Challenge",
       "slug": "mario-kart-bowser-s-challenge",
-      "totalClosures": 64,
+      "totalClosures": 65,
       "daysWithClosures": 27,
       "avgDurationMin": 15,
-      "avgWaitWhenDown": 63
+      "avgWaitWhenDown": 62
     },
     {
       "name": "Fyre Drill",
       "slug": "fyre-drill",
-      "totalClosures": 58,
-      "daysWithClosures": 28,
-      "avgDurationMin": 76,
-      "avgWaitWhenDown": 26
+      "totalClosures": 63,
+      "daysWithClosures": 30,
+      "avgDurationMin": 89,
+      "avgWaitWhenDown": 25
     },
     {
       "name": "Curse of the Werewolf",
       "slug": "curse-of-the-werewolf",
-      "totalClosures": 57,
+      "totalClosures": 60,
       "daysWithClosures": 27,
       "avgDurationMin": 56,
-      "avgWaitWhenDown": 44
+      "avgWaitWhenDown": 43
     },
     {
       "name": "Harry Potter and the Battle at the Ministry\u2122",
       "slug": "harry-potter-and-the-battle-at-the-ministry",
-      "totalClosures": 55,
+      "totalClosures": 57,
       "daysWithClosures": 26,
       "avgDurationMin": 28,
-      "avgWaitWhenDown": 77
+      "avgWaitWhenDown": 76
+    },
+    {
+      "name": "Yoshi's Adventure\u2122",
+      "slug": "yoshi-s-adventure",
+      "totalClosures": 46,
+      "daysWithClosures": 25,
+      "avgDurationMin": 68,
+      "avgWaitWhenDown": 27
     },
     {
       "name": "Constellation Carousel",
@@ -4766,28 +4774,20 @@
       "avgWaitWhenDown": 21
     },
     {
-      "name": "Yoshi's Adventure\u2122",
-      "slug": "yoshi-s-adventure",
-      "totalClosures": 43,
-      "daysWithClosures": 25,
-      "avgDurationMin": 68,
-      "avgWaitWhenDown": 28
-    },
-    {
       "name": "Dragon Racer's Rally",
       "slug": "dragon-racer-s-rally",
-      "totalClosures": 35,
-      "daysWithClosures": 22,
-      "avgDurationMin": 76,
-      "avgWaitWhenDown": 32
+      "totalClosures": 39,
+      "daysWithClosures": 25,
+      "avgDurationMin": 75,
+      "avgWaitWhenDown": 30
     },
     {
       "name": "Monsters Unchained: The Frankenstein Experiment",
       "slug": "monsters-unchained-the-frankenstein-experiment",
-      "totalClosures": 16,
-      "daysWithClosures": 13,
-      "avgDurationMin": 123,
-      "avgWaitWhenDown": 29
+      "totalClosures": 21,
+      "daysWithClosures": 16,
+      "avgDurationMin": 178,
+      "avgWaitWhenDown": 27
     },
     {
       "name": "Bowser Jr. Challenge",
